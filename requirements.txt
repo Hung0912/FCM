@@ -1,5 +1,4 @@
 pandas
 numpy
-random
-operator
-math
+Pillow
+matplotlib
